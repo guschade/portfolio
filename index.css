@@ -1,0 +1,506 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+
+body {
+  color: #1e1e2a;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* HEADER */
+
+.header-container {
+  align-items: flex-start;
+  background-color: #60e1e0;
+  background-image: url("./canva\ -\ 08.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  padding: 0 8vw;
+  position: relative;
+  width: 100vw;
+}
+
+h1 {
+  font-size: 3.26vw;
+  letter-spacing: 0.26vw;
+  text-transform: uppercase;
+}
+
+h2 {
+  letter-spacing: 0.26vw;
+  text-transform: uppercase;
+}
+
+.social-media {
+  display: flex;
+  margin-top: 1rem;
+}
+
+.social-media a {
+  align-items: center;
+  border: 0.065vw solid #1e1e2a;
+  color: #1e1e2a;
+  display: flex;
+  justify-content: center;
+  min-width: 4rem;
+  padding: 1rem 4rem;
+  text-decoration: none;
+  transition: 0.5s ease-in-out;
+}
+
+a:hover {
+  background-color: #ffffff;
+}
+
+/* MENU HAMBURGUER */
+
+.checkbox-container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.checkbox {
+  cursor: pointer;
+  display: flex;
+  height: 6.51vw;
+  justify-content: center;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: 400ms ease-in-out 0s;
+  width: 6.51vw;
+  z-index: 9999;
+}
+
+.checkbox .trace {
+  background-color: #1e1e2a;
+  border-radius: 0.26vw;
+  height: 0.13vw;
+  position: absolute;
+  transition: 0.5s ease-in-out;
+  width: 3.25vw;
+}
+
+.checkbox .trace:nth-child(1) {
+  top: 1.7vw;
+  transform: rotate(0);
+}
+
+.checkbox .trace:nth-child(2) {
+  top: 3vw;
+  transform: rotate(0);
+}
+
+.checkbox .trace:nth-child(3) {
+  top: 4.3vw;
+  transform: rotate(0);
+}
+
+#toggle {
+  display: none;
+}
+
+/* MENU */
+
+.menu {
+  background-color: transparent;
+  border-radius: 50%;
+  box-shadow: 0px 0px 0px 0px #ffffff;
+  height: 0.56vh;
+  position: absolute;
+  right: 1.95vw;
+  top: 1.82vw;
+  transition: 400ms ease-in-out 0s;
+  width: 0.65vw;
+  z-index: -1;
+}
+
+.menu-items {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+  opacity: 0;
+  visibility: hidden;
+  transition: 400ms ease-in-out 0s;
+}
+
+.menu-items ul {
+  list-style-type: none;
+}
+
+.menu-items ul li a {
+  color: #1e1e2a;
+  font-size: 2.6vw;
+  letter-spacing: 0.26vw;
+  margin: 0.65vw 0;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+/* ANIMAÇÃO DO MENU */
+
+#toggle:checked + .checkbox .trace:nth-child(1) {
+  top: 47px;
+  transform: rotate(45deg);
+}
+
+#toggle:checked + .checkbox .trace:nth-child(2) {
+  opacity: 0;
+  transform: translate(-100px);
+  visibility: hidden;
+  width: 30px;
+}
+
+#toggle:checked + .checkbox .trace:nth-child(3) {
+  top: 48px;
+  transform: rotate(-45deg);
+}
+
+#toggle:checked + .checkbox {
+  background-color: #ffffff;
+}
+
+#toggle:checked ~ .menu {
+  box-shadow: 0px 0px 0px 100vmax #ffffff;
+  z-index: 1;
+}
+
+#toggle:checked ~ .menu-items {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* CARDS */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: space-evenly;
+  margin: 3rem 0;
+  width: 100%;
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 90%;
+}
+
+.card1 {
+  width: 500px;
+  height: 300px;
+  border-radius: 8px;
+  margin: 3rem 0 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  background-color: #60e1e0;
+  background-image: url("./canva\ -\ 12+1.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: grayscale(0.5);
+  color: #1e1e2a;
+  cursor: pointer;
+  transition: 0.5s ease-in-out;
+}
+
+.card2 {
+  width: 500px;
+  height: 300px;
+  border-radius: 8px;
+  margin: 3rem 0 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  background-color: #60e1e0;
+  background-image: url("./canva\ -\ 14.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: grayscale(0.5);
+  color: #1e1e2a;
+  cursor: pointer;
+  transition: 0.5s ease-in-out;
+}
+
+.card3 {
+  width: 500px;
+  height: 300px;
+  border-radius: 8px;
+  margin: 3rem 0 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  background-color: #60e1e0;
+  background-image: url("./canva\ -\ 15.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: grayscale(0.5);
+  color: #1e1e2a;
+  cursor: pointer;
+  transition: 0.5s ease-in-out;
+}
+
+.card-text {
+  width: 40%;
+  letter-spacing: 1px;
+  color: rgb(109, 109, 109);
+  text-decoration: none;
+}
+
+.card-text a {
+  width: 40%;
+  letter-spacing: 0.14vh;
+  color: rgb(109, 109, 109);
+  text-decoration: none;
+}
+
+.card-wrapper {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.card-wrapper::before {
+  content: "";
+  position: absolute;
+  height: 14.22vh;
+  width: 6.51vw;
+  border-radius: 50%;
+  display: block;
+  border: 1 px solid #ffffff;
+  opacity: 0;
+  transition: 0.5s ease-in-out;
+}
+
+.card-wrapper a {
+  font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 0;
+  transition: 0, 5s ease-in-out;
+  text-decoration: none;
+}
+
+.card-wrapper p {
+  font-size: 0;
+  visibility: visible;
+  opacity: 0;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: 0.5s ease-in-out;
+}
+
+.card:hover {
+  filter: unset;
+}
+
+.card:hover > .card-wrapper::before {
+  height: 20vw;
+  width: 20vw;
+  opacity: 1;
+}
+
+.card:hover > .card-wrapper p {
+  opacity: 1;
+  visibility: visible;
+  font-size: 2vh;
+}
+
+/* FOOTER */
+
+.footer {
+  width: 100%;
+  height: 10vw;
+  background-color: #60e1e0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #1e1e2a;
+}
+
+/* RESPONSIVIDADE */
+
+@media screen and (max-width: 768px) {
+  /* HEADER */
+  .header-container {
+    background-position: top;
+    background-image: url("");
+    height: auto;
+    padding: 1rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+    margin: 0;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    margin: 0;
+  }
+
+  .social-media {
+    margin-top: 0.5rem;
+  }
+
+  .social-media a {
+    font-size: 1rem;
+    min-width: 3rem;
+    padding: 0.5rem 1rem;
+  }
+
+  /* MENU */
+
+  .menu {
+    background-color: transparent;
+    border-radius: 50%;
+    box-shadow: 0px 0px 0px 0px #ffffff;
+    height: 0.56vh;
+    position: absolute;
+    right: 1.95vw;
+    top: 1.82vw;
+    transition: 400ms ease-in-out 0s;
+    width: 0.65vw;
+    z-index: -1;
+  }
+
+  .menu-items {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+    opacity: 0;
+    visibility: hidden;
+    transition: 400ms ease-in-out 0s;
+  }
+
+  .menu-items ul {
+    list-style-type: none;
+  }
+
+  .menu-items ul li a {
+    color: #1e1e2a;
+    font-size: 5vw;
+    letter-spacing: 0.26vw;
+    margin: 0.65vw 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* ANIMAÇÃO DO MENU */
+
+  #toggle:checked + .checkbox .trace:nth-child(1) {
+    top: 47px;
+    transform: rotate(45deg);
+  }
+
+  #toggle:checked + .checkbox .trace:nth-child(2) {
+    opacity: 0;
+    transform: translate(-100px);
+    visibility: hidden;
+    width: 30px;
+  }
+
+  #toggle:checked + .checkbox .trace:nth-child(3) {
+    top: 48px;
+    transform: rotate(-45deg);
+  }
+
+  #toggle:checked + .checkbox {
+    background-color: #ffffff;
+  }
+
+  #toggle:checked ~ .menu {
+    box-shadow: 0px 0px 0px 100vmax #ffffff;
+    z-index: 1;
+  }
+
+  #toggle:checked ~ .menu-items {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  /* MENU HAMBURGUER */
+  .checkbox {
+    height: 4rem;
+    width: 4rem;
+  }
+
+  .checkbox .trace {
+    height: 0.8rem;
+    width: 3.2rem;
+  }
+
+  #toggle:checked ~ .menu {
+    height: 0.5rem;
+    width: 0.6rem;
+    right: 1rem;
+    top: 1.3rem;
+  }
+
+  /* CARDS */
+  .container {
+    margin: 2rem 0;
+  }
+
+  .card-container {
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+
+  .card1 {
+    width: 90%;
+    height: 30vh;
+    margin: 2rem 0;
+    background-image: url(./canva\ -\ 25.png);
+    justify-content: center;
+    align-items: flex-end;
+  }
+
+  .card2 {
+    width: 90%;
+    height: 30vh;
+    margin: 2rem 0;
+    background-image: url(./canva\ -\ 23.png);
+    justify-content: center;
+    align-items: flex-end;
+  }
+
+  .card3 {
+    width: 90%;
+    height: 30vh;
+    margin: 2rem 0;
+    background-image: url(./canva\ -\ 24.png);
+    justify-content: center;
+    align-items: flex-end;
+  }
+}
