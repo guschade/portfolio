@@ -1,0 +1,160 @@
+<mxfile host="app.diagrams.net" modified="2023-04-28T00:05:57.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="8_Aklxc3xgZ8H3SZmkHH" version="21.2.3" type="google">
+  <diagram name="Página-1" id="ENkCsBtf0RpbcNerBDTJ">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="560" width="870" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-1" value="https://guschade.github.io/portfolio.26-04-23/" style="swimlane;whiteSpace=wrap;html=1;fillColor=#60E1E0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="50" width="870" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-19" value="Text" style="text;html=1;strokeColor=none;fillColor=#60E1E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-1">
+          <mxGeometry x="60" y="20" width="810" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#60e1e0;fillColor=#60E1E0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-1">
+          <mxGeometry x="64" y="270" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60E1E0;strokeColor=#60E1E0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-1">
+          <mxGeometry x="220" y="270" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60E1E0;strokeColor=#60E1E0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-1">
+          <mxGeometry x="370" y="270" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-12" value="Instagram" style="text;html=1;strokeColor=none;fillColor=#60E1E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-1">
+          <mxGeometry x="112" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-13" value="GitHub" style="text;html=1;strokeColor=none;fillColor=#60E1E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-1">
+          <mxGeometry x="270" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-14" value="Linkedin" style="text;html=1;strokeColor=#60E1E0;fillColor=#60E1E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-1">
+          <mxGeometry x="420" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-16" value="&lt;h1&gt;GUSTAVO SCHADE&lt;/h1&gt;&lt;div&gt;ESTUDANTE DE CIÊNCIA DA COMPUTAÇÃO&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#60E1E0;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-1">
+          <mxGeometry x="67" y="200" width="466" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-18" value="&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=#60E1E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-1">
+          <mxGeometry y="20" width="60" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff4cc;strokeColor=#d6b656;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-1">
+          <mxGeometry x="620" y="175" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-36" value="https://guschade.github.io/portfolio.26-04-23/projetos.html" style="swimlane;whiteSpace=wrap;html=1;fillColor=#60E1E0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="50" width="870" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-37" value="Text" style="text;html=1;strokeColor=none;fillColor=#60E1E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-36">
+          <mxGeometry x="60" y="20" width="810" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-38" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#60e1e0;fillColor=#60E1E0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-36">
+          <mxGeometry x="64" y="270" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60E1E0;strokeColor=#60E1E0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-36">
+          <mxGeometry x="220" y="270" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60E1E0;strokeColor=#60E1E0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-36">
+          <mxGeometry x="370" y="270" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-41" value="GitHub" style="text;html=1;strokeColor=none;fillColor=#60E1E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-36">
+          <mxGeometry x="112" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-44" value="&lt;h1&gt;MEUS PROJETOS&lt;/h1&gt;&lt;div&gt;Aqui abaixo estão meus projetos.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#60E1E0;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-36">
+          <mxGeometry x="67" y="200" width="466" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-45" value="&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=#60E1E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-36">
+          <mxGeometry y="20" width="60" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-47" value="https://guschade.github.io/portfolio.26-04-23/body.html" style="swimlane;whiteSpace=wrap;html=1;fillColor=#60E1E0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="960" y="50" width="870" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-48" value="Text" style="text;html=1;strokeColor=none;fillColor=#60E1E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-47">
+          <mxGeometry x="60" y="20" width="810" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-49" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#60e1e0;fillColor=#60E1E0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-47">
+          <mxGeometry x="64" y="270" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60E1E0;strokeColor=#60E1E0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-47">
+          <mxGeometry x="370" y="270" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-55" value="&lt;h1&gt;SOBRE MIM&lt;/h1&gt;&lt;div&gt;Olá, eu sou Gustavo e faço ciência da computação pela UVV.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#60E1E0;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-47">
+          <mxGeometry x="67" y="200" width="466" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-56" value="&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=#60E1E0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-47">
+          <mxGeometry y="20" width="60" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-57" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff4cc;strokeColor=#d6b656;" vertex="1" parent="wUdnhjXRjzSxbDzMFHfE-47">
+          <mxGeometry x="620" y="175" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60E1E0;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="610" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-60" value="PROJETO 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2085" y="710" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-72" value="&lt;a style=&quot;border-color: var(--border-color);&quot; target=&quot;_blank&quot; href=&quot;https://nacoes-unidas-20-correto.guschade.repl.co/&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#000000&quot;&gt;Exercício prático de cards responsivos feito&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;em sala de aula.&lt;/font&gt;&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2370" y="680" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-78" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60E1E0;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="795" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-79" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60E1E0;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="970" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-80" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="2085" y="640" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-81" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="2085" y="830" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-82" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="2085" y="1000" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-84" value="PROJETO 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2085" y="900" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-85" value="PROJETO 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2085" y="1070" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-87" value="&lt;a target=&quot;_blank&quot; href=&quot;https://test.guschade.repl.co/&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;1ª prova prática feita no curso de ciência da computação.&lt;/font&gt;&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="850" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-88" value="&lt;a target=&quot;_blank&quot; href=&quot;https://colors-student-grades-240423.guschade.repl.co/&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;1ª tabela colorida feita no curso de ciência da computação.&lt;/font&gt;&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2370" y="1020" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-89" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="560" width="870" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-90" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60E1E0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="615" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60E1E0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="800" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-92" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60E1E0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="980" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-93" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1015" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-94" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="210" y="835" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-95" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="210" y="640" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-96" value="&lt;a href=&quot;https://nacoes-unidas-20-correto.guschade.repl.co/&quot; target=&quot;_blank&quot; style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;border-color: var(--border-color);&quot;&gt;Exercício prático de cards responsivos feito&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;em sala de aula.&lt;/font&gt;&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="413" y="680" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-97" value="&lt;a href=&quot;https://test.guschade.repl.co/&quot; target=&quot;_blank&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;1ª prova prática feita no curso de ciência da computação.&lt;/font&gt;&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1554" y="1390" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-98" value="&lt;a target=&quot;_blank&quot; href=&quot;https://test.guschade.repl.co/&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;1ª prova prática feita no curso de ciência da computação.&lt;/font&gt;&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="830" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUdnhjXRjzSxbDzMFHfE-99" value="&lt;a target=&quot;_blank&quot; href=&quot;https://colors-student-grades-240423.guschade.repl.co/&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;1ª tabela colorida feita no curso de ciência da computação.&lt;/font&gt;&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1020" width="330" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
